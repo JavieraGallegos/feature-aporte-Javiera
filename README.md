@@ -74,6 +74,7 @@ En lugar de trabajar directamente en `main`:
 - Cuando todo funciona bien, unes la rama a `main`
 
 ---
+...
 
 ## ✅ Conclusión
 
